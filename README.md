@@ -1,5 +1,5 @@
-# Exodus 1.0
-Exodus is a Java based solution to Migrate MySQL 5.x databases to MariaDB. With a minimum configuration this tool can migrate the entire database including, user accounts, stored procedures, triggers, views, tables etc. With just one execution. 
+# DataBase Migration 1.0
+This project is a Java based solution to Migrate MySQL 5.x databases to MariaDB. With a minimum configuration this tool can migrate the entire database including, user accounts, stored procedures, triggers, views, tables etc. With just one execution. 
 
 Demo / Tutorial: https://youtu.be/iuG8xhCUVEw
 
